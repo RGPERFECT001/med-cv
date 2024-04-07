@@ -1,0 +1,16 @@
+sql data host : https://www.mongodb.com/free-cloud-database
+Website(Responsive)   : Bootstrap, Django
+GUI                   : Pyqt5
+
+
+In app options:
+-Time Slot booking
+-Advance no show reminder
+-urgent/routine optimization
+-Walk in patient optimisation
+-Day to day/Monthly visit reports
+-Billing system integration
+
+non func:
+
+appointment duplication.
